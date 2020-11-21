@@ -1,0 +1,5 @@
+<?php
+
+define("PAYEER_APPLICATION_ID", '1109206268');
+
+#DEV>EOF
